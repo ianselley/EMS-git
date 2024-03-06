@@ -12,7 +12,7 @@
 :icons: font
 :source-highlighter: prettify
 :project_id: gs-serving-web-content
-This guide walks you through the process of creating a "hello world" web site with Spring. Cambio de Diego con correo
+This guide walks you through the process of creating a "hello world" web site with Spring. Cambio de Diego con buen correo
 
 == What you'll build
 
