@@ -1,11 +1,11 @@
 html,
 body {
   height: 100%;
-  background: white;
+  background: darkred;
 }
 header {
   display: block;
-  background: #d7e0e9;
+  background: #d7e9db;
   padding: 10px 0px;
 }
 section {
